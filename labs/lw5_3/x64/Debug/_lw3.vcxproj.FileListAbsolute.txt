@@ -1,0 +1,2 @@
+C:\programming\C++\Лабы\_lw3\x64\Debug\_lw3.exe
+C:\programming\C++\Лабы\lw5_3\x64\Debug\_lw3.exe
